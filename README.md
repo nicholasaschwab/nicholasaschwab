@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nicholasaschwab
 - 👀 I’m interested in cloud engineering, cloud security and cybersecurity
 - 🌱 I’m currently continuously learning python, html/css, bash, linux, azure, etc.
-- 💞️ I’m looking to collaborate on anything!
+- 💞 I’m looking to collaborate on anything!
 - 📫 How to reach me: nickschwab@me.com
 
 <!---
